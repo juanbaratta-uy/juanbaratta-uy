@@ -3,8 +3,6 @@
 
 - 🌱 Actualmente estoy estudiando **ingeniería en computación**
 
-- 📫 Escríbeme a **juanpablobaratta@gmail.com**
-
 <p align="left">
 </p>
 
