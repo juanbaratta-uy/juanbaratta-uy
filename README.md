@@ -1,6 +1,11 @@
 <h1 align="center">Hola 👋, Soy Juan Pablo Baratta</h1>
 <h3 align="center">Frontend Developer</h3>
 
+<p align="center">Desde muy chico, me apasiona la tecnología, lo que me llevó a estudiar programación de manera autodidacta y descubrir mi fascinación por el desarrollo web.
+
+Una de mis principales motivaciones es el aprendizaje, ya que en el ámbito de la informática y la programación, la formación debe ser constante. Cada nuevo concepto asimilado y cada desafío superado en la resolución de problemas informáticos contribuyen a mi crecimiento tanto académico como personal.</p>
+
+
 - 🌱 Actualmente estoy estudiando **ingeniería en computación**
 
 <p align="left">
